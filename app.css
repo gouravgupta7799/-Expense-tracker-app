@@ -1,0 +1,12 @@
+.row {
+  padding: 20px;
+}
+
+.col-auto {
+  margin: 15px;
+}
+
+.btn {
+  float: right;
+  margin: 1px 5px;
+}
